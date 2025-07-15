@@ -102,13 +102,8 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-##  Running Tests
+##  Tests
 
-To execute unit tests:
-
-```bash
-./mvnw test
-```
 
 These tests cover:
 
